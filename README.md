@@ -1,7 +1,7 @@
 [![Header](./assets/Header.png)](https://github.com/PKompis/PKompis/)
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/panagiotis-kompis/"><img height="100" src="./assets/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/panagiotis-kompis/"><img height="70" src="./assets/linkedin.png"></a>
 </p>
 
 
