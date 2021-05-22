@@ -1,7 +1,7 @@
 [![Header](./assets/Header.png)](https://github.com/PKompis/PKompis/)
 
 <p align='center'>
-    Check me on LinkedIn
+    Check me also on LinkedIn
 </p>
 
 <p align='center'>
