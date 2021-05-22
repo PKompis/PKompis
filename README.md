@@ -31,10 +31,10 @@ I'm Panagiotis!
 
 
 
-[![Panagiotis's GitHub stats](https://github-readme-stats.vercel.app/api?username=PKompis&count_private=true&show_icons=true&theme=radical)](https://github.com/PKompis/github-readme-stats)
+[![Panagiotis's GitHub stats](https://github-readme-stats.vercel.app/api?username=PKompis&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PKompis&count_private=true&show_icons=true&theme=radical)](https://github.com/PKompis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PKompis&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 The Github Stats are provided through [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
